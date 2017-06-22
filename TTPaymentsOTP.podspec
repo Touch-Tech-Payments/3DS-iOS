@@ -8,7 +8,7 @@ s.description      = 'The TouchTech Payments iOS SDK, for integrating TouchTech 
 s.homepage         = 'https://github.com/Touch-Tech-Payments/3DS-iOS'
 s.license          = { :type => 'Apache 2.0', :file => 'TTPaymentsOTP/LICENSE' }
 s.author           = { "David Parsons"=>"dave@touchtechpayments.com"}
-s.source           = { :http => "https://github.com/Touch-Tech-Payments/3DS-iOS/releases/download/v#{s.version}/TTPayments.zip"}
+s.source           = { :http => "https://github.com/Touch-Tech-Payments/3DS-iOS/releases/download/v#{s.version}/TTPaymentsOTP.zip"}
 
 s.platform          = :ios
 
