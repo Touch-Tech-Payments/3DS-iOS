@@ -2,7 +2,7 @@
 
 ## Installation
 
-Touchtech 3DS for iOS supports iOS 9 and iOS 10.
+Touchtech 3DS for iOS supports iOS 9, 10 and 11.
 
 ### CocoaPods
 Add the Touchtech 3DS-iOS pod into your Podfile and run `pod install`.
