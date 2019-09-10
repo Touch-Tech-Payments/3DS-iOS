@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'TTPaymentsOTP'
-  s.version          = '1.3.0'
+  s.version          = '1.3.1'
   s.summary          = 'The Touchtech Payments iOS SDK, for integrating TouchTech Payments authentication into your iOS application.'
   s.description      = 'The TouchTech Payments iOS SDK, for integrating TouchTech Payments authentication into your iOS application. This SDK supports iOS 9 and above.'
 
