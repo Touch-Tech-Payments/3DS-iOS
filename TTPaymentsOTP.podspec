@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
   s.name             = 'TTPaymentsOTP'
-  s.version          = '1.4.0'
+  s.version          = '1.5.0'
   s.summary          = 'The Touchtech Payments iOS SDK, for integrating TouchTech Payments authentication into your iOS application.'
   s.description      = 'The TouchTech Payments iOS SDK, for integrating TouchTech Payments authentication into your iOS application. This SDK supports iOS 9 and above.'
 
@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 
   s.source           = { :http => "https://github.com/Touch-Tech-Payments/3DS-iOS/releases/download/v#{s.version}/CocoaPods.tar.gz"}
   s.platform         = :ios
-  s.swift_version    = '5.1'
+  s.swift_version    = '5.1.3'
 
   s.dependency 'Starscream', '= 3.1.0'
 
